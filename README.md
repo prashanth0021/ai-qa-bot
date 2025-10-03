@@ -20,7 +20,7 @@ The bot runs in the **command-line**, where users can type a question and get an
    ```
 4. Create a `.env` file with your API key:
    ```
-   OPENAI_API_KEY=your_api_key_here
+   GEMINI_API_KEY=your_api_key_here
    ```
 
 ---
@@ -45,5 +45,5 @@ streamlit run streamlit_app.py
 
 ## ✅ Tech Stack
 - Python
-- OpenAI API
+- Google Gemini API (flash-2.5)
 - Streamlit (optional UI)
